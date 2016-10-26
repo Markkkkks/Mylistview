@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
                 deleteItem.setIcon(R.drawable.ic_delete);
                 // add to menu
                 menu.addMenuItem(deleteItem);
+                //biezheyangya
             }
         };
         // set creator
